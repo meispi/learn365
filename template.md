@@ -6,7 +6,7 @@ Index | Section
 **2** | [Scenario](#Scenario)
 **3** | [How to test](#How-to-test)
 **4** | [Practice](#Practice)
-**5** | [How to test](#How-to-test)
+**5** | [References](#References)
 ___
 
 ### About the attack
